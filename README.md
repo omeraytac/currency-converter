@@ -2,15 +2,19 @@
 
 ### How to Run?
 
+- Clone the repository.
+
 - Install maven -- https://maven.apache.org/install.html
 
-- Open terminal || cmd, run 'mvn spring-boot:run' to start the application. 
+- Open terminal || cmd, go into the project directory, run 'mvn spring-boot:run' to start the application. 
 
 ### How to do integration tests?
 
+- Clone the repository, if was not cloned.
+
 - Install maven -- https://maven.apache.org/install.html if it was not installed.
 
-- Open terminal || cmd, run 'mvn test' to test the application.
+- Open terminal || cmd, go into the project directory, run 'mvn test' to test the application.
 
 ### Request & Response
 
