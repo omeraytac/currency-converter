@@ -4,13 +4,13 @@
 
 - Install maven -- https://maven.apache.org/install.html
 
-- Open terminal || cmd, run 'mvn spring-boot:run' to start application. 
+- Open terminal || cmd, run 'mvn spring-boot:run' to start the application. 
 
 ### How to do integration tests?
 
 - Install maven -- https://maven.apache.org/install.html if it was not installed.
 
-- Open terminal || cmd, run 'mvn test' to start application.
+- Open terminal || cmd, run 'mvn test' to test the application.
 
 ### Request & Response
 
